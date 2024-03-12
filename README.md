@@ -10,6 +10,7 @@ van Engelenburg, M., Deetman, S., Fishman, T., Behrens, P., & van der Voet, E. (
 
 
 The TRIPI dataset aims to be a complete overview of the scope of transportation infrastructure + the stocks of materials currently in this infrastructure. The code supplied here provides ways to convert, extract and calculate data from files provided by OpenStreetMaps and Geofabrik. Using this data allows for a highly detailed coverage of transportation infrastructure.
+
 ![image](https://github.com/MvEngelenburg/TRIPI/assets/112072219/72e36279-52b4-4b35-a231-c231695d71da)
 
 ## 🛣️: What's TRIPI?
