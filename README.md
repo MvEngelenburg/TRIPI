@@ -34,7 +34,7 @@ Construction materials are associated with significant environmental and resourc
 ## 📖 How to cite
 Please cite both the Data Descriptor and the specific data version used:
 
-**Data Descriptor**: Van Engelenburg, M., Deetman, S., Fishman, T., Behrens, P., & van der Voet, E. (2024). TRIPI: A global dataset and codebase of the Total Resources In Physical Infrastructure encompassing road, rail, and parking. _In review_
+**Data Descriptor**: van Engelenburg, M., Deetman, S., Fishman, T., Behrens, P., & Van der Voet, E. (2024). TRIPI: A global dataset and codebase of the Total Resources In Physical Infrastructure encompassing road, rail, and parking. Data in Brief, 110387.
 
 **Data version:** <a href="https://doi.org/10.5281/zenodo.10022371"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10022371.svg" alt="DOI"></a>
 
